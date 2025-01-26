@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'game of thrones', sans-serif; /* Modern font */
+    background-color: #4487c6; /* Soft pastel background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Matches popup size */
+    width: 400px;
+}
